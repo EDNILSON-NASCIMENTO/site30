@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+<<<<<<< HEAD
 		cadeia alune[4]
 		cadeia matricula[4]  //mat-1
 		inteiro nota[4] //todo mundo com 1
@@ -54,6 +55,13 @@ programa
 
 
 		
+=======
+		para (inteiro x=1; x<80; x++){
+			escreva("☻") //TABELA ASCII 
+			
+		}
+		escreva("fim de programa!!")
+>>>>>>> a1f2fe81bc24a598412796db52ccb2133bf2a81d
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -61,7 +69,11 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
+<<<<<<< HEAD
  * @POSICAO-CURSOR = 842; 
+=======
+ * @POSICAO-CURSOR = 136; 
+>>>>>>> a1f2fe81bc24a598412796db52ccb2133bf2a81d
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
